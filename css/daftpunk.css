@@ -15,7 +15,7 @@ header{
 }
 
 h1, h2{
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Quicksand', Helvetica, Arial, sans-serif;
 }
 
 header h1{
@@ -31,7 +31,7 @@ header img{
 
 /* Main Body */
  main{
- 	max-width: 800px;
+ 	max-width: 900px;
  	margin: 0 auto;
  	padding: 20px;
  }
